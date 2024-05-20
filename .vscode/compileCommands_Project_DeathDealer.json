@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\drave\\Documents\\Unreal Projects\\Project_DeathDealer\\Source\\Project_DeathDealer\\Private\\InventorySystem.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\drave\\Documents\\Unreal Projects\\Project_DeathDealer\\.vscode\\compileCommands_Project_DeathDealer\\Project_DeathDealer.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\drave\\Documents\\Unreal Projects\\Project_DeathDealer\\Source\\Project_DeathDealer\\Project_DeathDealer.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\drave\\Documents\\Unreal Projects\\Project_DeathDealer\\.vscode\\compileCommands_Project_DeathDealer\\Project_DeathDealer.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\drave\\Documents\\Unreal Projects\\Project_DeathDealer\\Source\\Project_DeathDealer\\Project_DeathDealer.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\drave\\Documents\\Unreal Projects\\Project_DeathDealer\\.vscode\\compileCommands_Project_DeathDealer\\Project_DeathDealer.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\drave\\Documents\\Unreal Projects\\Project_DeathDealer\\Source\\Project_DeathDealer\\Project_DeathDealer.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\drave\\Documents\\Unreal Projects\\Project_DeathDealer\\.vscode\\compileCommands_Project_DeathDealer\\Project_DeathDealer.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\drave\\Documents\\Unreal Projects\\Project_DeathDealer\\Source\\Project_DeathDealer\\Public\\InventorySystem.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\drave\\Documents\\Unreal Projects\\Project_DeathDealer\\.vscode\\compileCommands_Project_DeathDealer\\Project_DeathDealer.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]

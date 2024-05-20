@@ -1,0 +1,44 @@
+# Ignore build directories
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore Visual Studio files
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.ipch
+*.vcxproj
+*.vcxproj.*
+
+# Ignore CodeLite files
+*.project
+*.workspace
+
+# Ignore Xcode files
+*.xcworkspace
+*.xcproject
+
+# Ignore JetBrains IDEs files
+.idea/
+*.iml
+
+# Ignore macOS files
+.DS_Store
+
+# Ignore other OS-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore Unreal Engine crash reports
+*.log
+
+# Ignore other temporary files
+*.tmp
