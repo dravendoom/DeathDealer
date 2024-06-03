@@ -1,5 +1,4 @@
-###
-Project DeathDealer
+### Project DeathDealer
 ![Example Image](githubImages/TitleImage.png)
 ## Features
 
