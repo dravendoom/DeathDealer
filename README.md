@@ -38,4 +38,14 @@ The blueprint below is for setting flip book animations based on the movement sp
 
 ## BLUEPRINT: BP_BaseEnemy
 
-This blueprint represents the player's character. Here we will be going over all the movement functionalities and animations + other getter/setter methods.
+This blueprint represents a simple enemy type that uses the moveTo default AI operation and an attack function to hit the player when reaching a close proximity. 
+
+![Example Image](githubImages/enemy/AttackEventEnemy.png)
+
+![Example Image](githubImages/enemy/BTTAttack.png)
+
+![Example Image](githubImages/enemy/EnemyAI.png)
+
+![Example Image](githubImages/enemy/EnemyOrient.png)
+
+![Example Image](githubImages/enemy/EnemyTakeDamage.png)
