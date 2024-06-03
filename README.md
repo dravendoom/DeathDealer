@@ -20,6 +20,9 @@ Typically, vampire survivor games focus on wave-based content with occasional bo
 
 Almost 85-90% of the project was done via blueprints and other unreal uassets. I will be going over most of the core fundamental blueprints that comprise of the game. There is also source C++ code that is generally used for custom structs and struct functionalties. 
 
-## License
+## Portfolio Blueprint Review
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This blueprint represents the player's character. Here we will be going over all the movement functionalities and animations + other getter/setter methods.
+
+![Example Image](githubImages/playercharacter/Movement.png)
+
