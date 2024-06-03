@@ -35,3 +35,7 @@ The blueprint below is for setting flip book animations based on the movement sp
 ![Example Image](githubImages/playercharacter/DamageEvent.png)
 
 ![Example Image](githubImages/playercharacter/AddPlayerStats.png)
+
+## BLUEPRINT: BP_BaseEnemy
+
+This blueprint represents the player's character. Here we will be going over all the movement functionalities and animations + other getter/setter methods.
