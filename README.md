@@ -29,3 +29,9 @@ This blueprint represents the player's character. Here we will be going over all
 The blueprint below is for setting flip book animations based on the movement speed of the player at the current tick in time.
 
 ![Example Image](githubImages/playercharacter/MovementAnimations.png)
+
+![Example Image](githubImages/playercharacter/PlayerLevelup.png)
+
+![Example Image](githubImages/playercharacter/DamageEvent.png)
+
+![Example Image](githubImages/playercharacter/AddPlayerStats.png)
