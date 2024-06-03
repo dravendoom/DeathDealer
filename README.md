@@ -3,7 +3,7 @@
 
 ## Description
 
-The idea of Project Deathdealer (placeholder name), is to create yet another vampire survivor like game with a few new quirks to it. There is a game that inspired me called Median XL, a diablo II mod that creates difficult static boss content for solo players. These drop specific character altering attributes (I.E changing ability functionalities) and other unique things like custom loot tables. Generally vampire survivor like games only have wave like content and possibly a boss after a set milestone (generally time). The Idea for Project DeathDealer is to have a open world vampire survivor like game and when you are strong enough you can choose to go into these unique biome areas and challange the bosses essentially making this genre a hybrid.
+The concept behind Project Deathdealer (a placeholder name) is to create a vampire survivor-like game with unique twists. I drew inspiration from a game called Median XL, a Diablo II mod that introduces challenging static boss content for solo players. This mod features specific character-altering attributes (e.g., changing ability functionalities) and custom loot tables. Typically, vampire survivor games focus on wave-based content with occasional bosses appearing after certain milestones, usually based on time. Project Deathdealer aims to innovate by offering an open-world experience where players can explore and, once they are strong enough, enter unique biome areas to challenge bosses. This approach effectively creates a hybrid genre, blending open-world exploration with the traditional vampire survivor mechanics.
 ## Features
 
 - Unique mob types and wave sequences.
