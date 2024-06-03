@@ -66,3 +66,29 @@ This blueprint represents the gamemode, and is reponsible for level up triggers,
 
 ![Example Image](githubImages/gamemode/WaveDecrementor.png)
 
+## BLUEPRINT: Spells_Folder
+
+These images will represent some of the spells that are currently implemented in the game. Some of these still need hookups to gather play stats but in total work. (5 out of 8) of the current spells have VFX.
+
+![Example Image](githubImages/Spells/FireBlast.png)
+
+![Example Image](githubImages/Spells/FlameFrontStart.png)
+
+![Example Image](githubImages/Spells/GetHitResult.png)
+
+![Example Image](githubImages/Spells/MultiProjectile.png)
+
+![Example Image](githubImages/Spells/ChainLightning/ChainLightningBase.png)
+
+![Example Image](githubImages/Spells/ChainLightning/ChainLightning.png)
+
+## BLUEPRINT: Spells_Passive_UI
+
+These blueprint images are responsible for the UI to select spells or passives based on the players current level.
+
+![Example Image](githubImages/SpellLevelUI/Buttons.png)
+
+![Example Image](githubImages/SpellLevelUI/SpellButtons.png)
+
+![Example Image](githubImages/SpellLevelUI/MasterUI.png)
+
