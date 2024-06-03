@@ -16,9 +16,9 @@ Typically, vampire survivor games focus on wave-based content with occasional bo
 - UI for the inventory system and item aquisition.
 - New characters and enemy mob types.
 
-## Usage
+## Portfolio Blueprint Review
 
-Instructions on how to use the project.
+Almost 85-90% of the project was done via blueprints and other unreal uassets. I will be going over most of the core fundamental blueprints that comprise of the game. There is also source C++ code that is generally used for custom structs and struct functionalties. 
 
 ## License
 
