@@ -2,9 +2,14 @@ test
 ![Example Image](githubImages/TitleImage.png)
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Unique mob types and wave sequences.
+- 8 Different abilities all made with unique scaling in mind. (5 currently with VFX).
+- Item drops with different raritys.
+
+## Future Features
+- Boss arenas that you can enter at will when you feel you are up to the challange.
+- UI for the inventory system and item aquisition.
+- New characters and enemy mob types.
 
 ## Usage
 
