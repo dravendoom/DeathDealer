@@ -49,3 +49,20 @@ This blueprint represents a simple enemy type that uses the moveTo default AI op
 ![Example Image](githubImages/enemy/EnemyOrient.png)
 
 ![Example Image](githubImages/enemy/EnemyTakeDamage.png)
+
+## BLUEPRINT: BP_DeathDealer
+
+This blueprint represents the gamemode, and is reponsible for level up triggers, item triggers and spawning monster waves.
+
+![Example Image](githubImages/gamemode/BreakWaveStruct.png)
+
+![Example Image](githubImages/gamemode/EnemyWaveSystem.png)
+
+![Example Image](githubImages/gamemode/GameModeStart.png)
+
+![Example Image](githubImages/gamemode/RandomEnemySpawn.png)
+
+![Example Image](githubImages/gamemode/SelectAbilityOrPassive.png)
+
+![Example Image](githubImages/gamemode/WaveDecrementor.png)
+
