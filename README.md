@@ -92,3 +92,18 @@ These blueprint images are responsible for the UI to select spells or passives b
 
 ![Example Image](githubImages/SpellLevelUI/MasterUI.png)
 
+## BLUEPRINT (Still in the works): Items
+
+THese blueprints and data tables are used in conjunction with C++ code to develop an item system. Items will first select rarity based on weights, then select an item from that rarity. These item names are then used to gather info from the Data Table and are served to the player, which then uses AddStat nodes based on the item equipped.
+
+![Example Image](githubImages/Items/IItemdatatable.png)
+
+![Example Image](githubImages/Items/ItemExample.png)
+
+## Few Util functions for calculations
+
+![Example Image](githubImages/UtilFunctions/Damage.png)
+
+![Example Image](githubImages/UtilFunctions/DamageReduc.png)
+
+
