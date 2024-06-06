@@ -50,8 +50,6 @@ This blueprint represents a simple enemy type that uses the moveTo default AI op
 
 ![Example Image](githubImages/enemy/AttackEventEnemy.png)
 
-![Example Image](githubImages/enemy/BTTAttack.png)
-
 ![Example Image](githubImages/enemy/EnemyAI.png)
 
 Checks the player's position compared to the enemies. If the player is to left set the rotation of the sprite to the left, and vise-versa. 
