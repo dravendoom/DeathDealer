@@ -30,9 +30,17 @@ The blueprint below is for setting flip book animations based on the movement sp
 
 ![Example Image](githubImages/playercharacter/MovementAnimations.png)
 
+Recieves XP from orb BP's that drop from enemies when their health reachs 0.
+Also checks if a player XP has reached over a certain threshold.
+
 ![Example Image](githubImages/playercharacter/PlayerLevelup.png)
 
+Recives damage from any damage event caused by any BP_Base_Enemy.
+Damaged reduction formula applies armor and flat damage reduction to the damage recieved and minused by the players HP.
+
 ![Example Image](githubImages/playercharacter/DamageEvent.png)
+
+A few setter events for Items and Passive bonused to inteact with.
 
 ![Example Image](githubImages/playercharacter/AddPlayerStats.png)
 
