@@ -56,6 +56,8 @@ This blueprint represents the gamemode, and is reponsible for level up triggers,
 
 ![Example Image](githubImages/gamemode/BreakWaveStruct.png)
 
+Using structs I was able to make waves have multiple enemy types based on classes, and then set certain parameters that control the wave functionality like "Wave Frequency".
+
 ![Example Image](githubImages/gamemode/EnemyWaveSystem.png)
 
 ![Example Image](githubImages/gamemode/GameModeStart.png)
