@@ -60,11 +60,21 @@ Using structs I was able to make waves have multiple enemy types based on classe
 
 ![Example Image](githubImages/gamemode/EnemyWaveSystem.png)
 
+Initializing the games UI and other constants.
+
 ![Example Image](githubImages/gamemode/GameModeStart.png)
+
+Spawning logic using a randomly generated vector in space and the players vector in space to create distances and positions of spawns.
 
 ![Example Image](githubImages/gamemode/RandomEnemySpawn.png)
 
+This is using custom structs built within C++, to choose a spell and or passive based on a given weighting.
+
+Each time a passive or spell is selected the total weighting of that chance of occuring decreases by a certain amount. (Spell weight - a constant value), which can reach 0.
+
 ![Example Image](githubImages/gamemode/SelectAbilityOrPassive.png)
+
+Decrements the wave which is used to call the next struct into action.
 
 ![Example Image](githubImages/gamemode/WaveDecrementor.png)
 
