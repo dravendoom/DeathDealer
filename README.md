@@ -54,7 +54,11 @@ This blueprint represents a simple enemy type that uses the moveTo default AI op
 
 ![Example Image](githubImages/enemy/EnemyAI.png)
 
+Checks the player's position compared to the enemies. If the player is to left set the rotation of the sprite to the left, and vise-versa. 
+
 ![Example Image](githubImages/enemy/EnemyOrient.png)
+
+Currently just takes damage from player attacks/spells. No damage reduction formula is applied to enemies yet.
 
 ![Example Image](githubImages/enemy/EnemyTakeDamage.png)
 
@@ -92,13 +96,23 @@ These images will represent some of the spells that are currently implemented in
 
 ![Example Image](githubImages/Spells/FireBlast.png)
 
+Shows the cooldown system and the initial variable hookups of the spell Flame Front.
+
 ![Example Image](githubImages/Spells/FlameFrontStart.png)
+
+Get hit results essentially gathers mouse data and compares that vector to the players vector.
 
 ![Example Image](githubImages/Spells/GetHitResult.png)
 
+Shows the implementation of flame fronts greater multiple projects. Creates a fanning affect the more projects that are added. I will eventually make this into a function that can be accessed through all spells.
+
 ![Example Image](githubImages/Spells/MultiProjectile.png)
 
+Start of the chain lightning spell. Very similar to flamefront.
+
 ![Example Image](githubImages/Spells/ChainLightning/ChainLightningBase.png)
+
+Shows how the cascading sphere calculates work, to gather the closest actor in the area.
 
 ![Example Image](githubImages/Spells/ChainLightning/ChainLightning.png)
 
@@ -106,9 +120,14 @@ These images will represent some of the spells that are currently implemented in
 
 These blueprint images are responsible for the UI to select spells or passives based on the players current level.
 
+The image below shows the setup for passive buttons UI.
+
 ![Example Image](githubImages/SpellLevelUI/Buttons.png)
 
+The image below shows the setup for spell buttons UI.
 ![Example Image](githubImages/SpellLevelUI/SpellButtons.png)
+
+The master UI is used to populate and display the Spell and Passive UI widgets.
 
 ![Example Image](githubImages/SpellLevelUI/MasterUI.png)
 
@@ -125,5 +144,7 @@ THese blueprints and data tables are used in conjunction with C++ code to develo
 ![Example Image](githubImages/UtilFunctions/Damage.png)
 
 ![Example Image](githubImages/UtilFunctions/DamageReduc.png)
+
+To see more about the items check the source code.
 
 
